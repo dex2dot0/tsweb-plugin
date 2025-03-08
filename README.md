@@ -86,6 +86,16 @@ Run TypeScript type checking:
 pnpm run typecheck
 ```
 
+### Formatting
+
+Run Prettier to format the code:
+
+```bash
+pnpm run format
+```
+
+Various IDEs have plugins that can run Prettier on save. This is recommended to keep your code formatted as you work.
+
 ## Disclaimer
 
 :warning: This is an example of how to support Typescript for web plugins and does not constitute official guidance. Use of this example is at your own risk and provided as-is. The example may not be maintained or updated in the future.
